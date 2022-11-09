@@ -1,6 +1,6 @@
-Dajana has 0 wins and 0 loses!
+Dajana has 0 wins and 1 loses!
 Ema has 1 wins and 0 loses!
 
 x..
 xo.
-x..
+xo.
