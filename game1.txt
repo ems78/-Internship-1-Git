@@ -3,5 +3,6 @@ Ema has 0 wins and 0 loses!
 
 
 o.x
-...
+.o.
 x..
+
